@@ -91,15 +91,15 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
      
   Demo: [SkillForge-VR in action](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=10s)
 
-  <p align="center">
-    <iframe width="560" height="315" 
-      src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10" 
-      title="SkillForge-VR Demo" 
-      style="border:0;" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-    </iframe>
-  </p>
+<p align="center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10" 
+    title="SkillForge-VR Demo" 
+    style="border:0;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</p>
 
 
 
