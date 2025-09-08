@@ -87,60 +87,32 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
    - AI Career Guide: Discuss interests; get tailored TVET recommendations.
    - Workshops: Pick a trade and start guided practice.
      
-      Demo: 
+     ### Demo: (CLICK IMAGE TO PLAY)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-  title="SkillForge-VR in action"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  >
-</iframe>
-
+      [![VR Lobby](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=10s)
 
 2. AI Career Guide
    - Conversational intake about passions, skills, and constraints.
    - Mentor explains trade-offs, market demand, and learning paths.
 
-      Demo: 
+      ### Demo: (CLICK IMAGE TO PLAY)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-  title="SkillForge-VR in action"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  >
-</iframe>
-
+      [![AI Career Guide](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=53s)
 
 3. Workshop Learning
    - AI Instructor assigns tasks and provides step-by-step guidance.
    - Real-time adaptation based on performance and voice feedback.
 
-      Demo: 
+      ### Demo: (CLICK IMAGE TO PLAY)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-  title="SkillForge-VR in action"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  >
-</iframe>
-
+      [![Workshop Learning](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=135s)
 
 4. Feedback & Progress
    - Adaptive progression, challenges, badges, and certifications.
 
-      Demo: 
+      ### Demo: (CLICK IMAGE TO PLAY)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-  title="SkillForge-VR in action"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  >
-</iframe>
-
+      [![Feedback & Progress](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=320s)
 
 ---
 
