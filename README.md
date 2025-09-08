@@ -89,13 +89,13 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
      
       Demo: 
 
-      <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-        title="SkillForge-VR in action"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        >
-      </iframe>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+  title="SkillForge-VR in action"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  >
+</iframe>
 
 
 2. AI Career Guide
@@ -104,13 +104,13 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
 
       Demo: 
 
-      <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-        title="SkillForge-VR in action"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        >
-      </iframe>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+  title="SkillForge-VR in action"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  >
+</iframe>
 
 
 3. Workshop Learning
@@ -119,25 +119,25 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
 
       Demo: 
 
-      <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-        title="SkillForge-VR in action"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        >
-      </iframe>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+  title="SkillForge-VR in action"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  >
+</iframe>
 4. Feedback & Progress
    - Adaptive progression, challenges, badges, and certifications.
 
       Demo: 
 
-      <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
-        title="SkillForge-VR in action"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        >
-      </iframe>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+  title="SkillForge-VR in action"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  >
+</iframe>
 
 ---
 
