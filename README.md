@@ -120,6 +120,38 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
 
 ![Workflow](images/workflow.png)
 
+## 🏁 Workflow Steps
+
+1. **Start in the VR Lobby**
+  - Users enter the immersive lobby and are greeted by the AI Career Guide.
+  - Navigation is voice-driven using the AI-powered VUI.
+
+2. **Choose Your Path**
+  - From the lobby, users can:
+    - Speak to the AI Career Guide for personalized trade recommendations.
+    - Directly enter a workshop by saying the trade name.
+
+3. **Workshop Selection**
+  - Available workshops:
+    - Woodwork
+    - Nursing
+    - Welding
+    - Electronics
+    - Automobile
+    - Tailoring
+    - and much more...
+  - Users can ask the AI about each trade before entering.
+
+4. **Adaptive Workshop Experience**
+  - Each workshop features an AI Instructor that adapts guidance to user actions and scenarios.
+  - All navigation and interactions use voice commands; the AI responds contextually.
+
+5. **Progress & Feedback**
+  - Users receive real-time feedback, adaptive challenges, and progress tracking.
+  - The system supports diverse learning paces and scenarios.
+
+---
+
 ---
 
 ## 📷 User Testing (Early)
