@@ -126,6 +126,8 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   >
 </iframe>
+
+
 4. Feedback & Progress
    - Adaptive progression, challenges, badges, and certifications.
 
@@ -138,6 +140,7 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   >
 </iframe>
+
 
 ---
 
