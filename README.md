@@ -30,6 +30,78 @@ SkillForge-VR combines adaptive AI with a voice-first VR interface:
 - Gamification — tasks, levels, rewards, and progress tracking to sustain engagement.
 - For all ages — suitable for children and adults.
 
+## 📊 flow Diagram
+
+![Workflow](images/workflow.png)
+
+## 🛠 Workflow
+
+1. VR Lobby
+   - AI Career Guide: Discuss interests; get tailored TVET recommendations.
+   - Workshops: Pick a trade and start guided practice.
+     
+     ### Demo: (CLICK IMAGE TO PLAY)
+
+      [![VR Lobby](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=10s)
+
+2. AI Career Guide
+   - Conversational intake about passions, skills, and constraints.
+   - Mentor explains trade-offs, market demand, and learning paths.
+
+      ### Demo: (CLICK IMAGE TO PLAY)
+
+      [![AI Career Guide](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=53s)
+
+3. Workshop Learning
+   - AI Instructor assigns tasks and provides step-by-step guidance.
+   - Real-time adaptation based on performance and voice feedback.
+
+      ### Demo: (CLICK IMAGE TO PLAY)
+
+      [![Workshop Learning](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=135s)
+
+4. Feedback & Progress
+   - Adaptive progression, challenges, badges, and certifications.
+
+      ### Demo: (CLICK IMAGE TO PLAY)
+
+      [![Feedback & Progress](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=320s)
+
+---
+
+
+## 🏁 User flow Steps
+
+1. **Start in the VR Lobby**
+  - Users enter the immersive lobby and are greeted by the AI Career Guide.
+  - Navigation is voice-driven using the AI-powered VUI.
+
+2. **Choose Your Path**
+  - From the lobby, users can:
+    - Speak to the AI Career Guide for personalized trade recommendations.
+    - Directly enter a workshop by saying the trade name.
+
+3. **Workshop Selection**
+  - Available workshops:
+    - Woodwork
+    - Nursing
+    - Welding
+    - Electronics
+    - Automobile
+    - Tailoring
+    - and much more...
+  - Users can ask the AI about each trade before entering.
+
+4. **Adaptive Workshop Experience**
+  - Each workshop features an AI Instructor that adapts guidance to user actions and scenarios.
+  - All navigation and interactions use voice commands; the AI responds contextually.
+
+5. **Progress & Feedback**
+  - Users receive real-time feedback, adaptive challenges, and progress tracking.
+  - The system supports diverse learning paces and scenarios.
+
+---
+
 
 ## 🗣️ Voice-First Interaction (AI-Powered VUI)
 
@@ -79,78 +151,6 @@ Players interact using natural language; the AI understands intent, confirms ste
 - TTS (text-to-speech) delivers multilingual audio with captions.
 
 Latency targets: <500 ms for command-and-control; longer for complex tutoring responses.
-
-
-## 🛠 Workflow
-
-1. VR Lobby
-   - AI Career Guide: Discuss interests; get tailored TVET recommendations.
-   - Workshops: Pick a trade and start guided practice.
-     
-     ### Demo: (CLICK IMAGE TO PLAY)
-
-      [![VR Lobby](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=10s)
-
-2. AI Career Guide
-   - Conversational intake about passions, skills, and constraints.
-   - Mentor explains trade-offs, market demand, and learning paths.
-
-      ### Demo: (CLICK IMAGE TO PLAY)
-
-      [![AI Career Guide](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=53s)
-
-3. Workshop Learning
-   - AI Instructor assigns tasks and provides step-by-step guidance.
-   - Real-time adaptation based on performance and voice feedback.
-
-      ### Demo: (CLICK IMAGE TO PLAY)
-
-      [![Workshop Learning](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=135s)
-
-4. Feedback & Progress
-   - Adaptive progression, challenges, badges, and certifications.
-
-      ### Demo: (CLICK IMAGE TO PLAY)
-
-      [![Feedback & Progress](https://img.youtube.com/vi/ltrWb-F3pUQ/0.jpg)](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=320s)
-
----
-
-## 📊 Workflow Diagram
-
-![Workflow](images/workflow.png)
-
-## 🏁 Workflow Steps
-
-1. **Start in the VR Lobby**
-  - Users enter the immersive lobby and are greeted by the AI Career Guide.
-  - Navigation is voice-driven using the AI-powered VUI.
-
-2. **Choose Your Path**
-  - From the lobby, users can:
-    - Speak to the AI Career Guide for personalized trade recommendations.
-    - Directly enter a workshop by saying the trade name.
-
-3. **Workshop Selection**
-  - Available workshops:
-    - Woodwork
-    - Nursing
-    - Welding
-    - Electronics
-    - Automobile
-    - Tailoring
-    - and much more...
-  - Users can ask the AI about each trade before entering.
-
-4. **Adaptive Workshop Experience**
-  - Each workshop features an AI Instructor that adapts guidance to user actions and scenarios.
-  - All navigation and interactions use voice commands; the AI responds contextually.
-
-5. **Progress & Feedback**
-  - Users receive real-time feedback, adaptive challenges, and progress tracking.
-  - The system supports diverse learning paces and scenarios.
-
----
 
 ---
 
