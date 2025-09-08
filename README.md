@@ -30,7 +30,6 @@ SkillForge-VR combines adaptive AI with a voice-first VR interface:
 - Gamification — tasks, levels, rewards, and progress tracking to sustain engagement.
 - For all ages — suitable for children and adults.
 
----
 
 ## 🗣️ Voice-First Interaction (AI-Powered VUI)
 
@@ -81,7 +80,6 @@ Players interact using natural language; the AI understands intent, confirms ste
 
 Latency targets: <500 ms for command-and-control; longer for complex tutoring responses.
 
----
 
 ## 🛠 Workflow
 
@@ -89,30 +87,57 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
    - AI Career Guide: Discuss interests; get tailored TVET recommendations.
    - Workshops: Pick a trade and start guided practice.
      
-  Demo: [SkillForge-VR in action](https://www.youtube.com/watch?v=ltrWb-F3pUQ&t=10s)
+      Demo: 
 
-<p align="center">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10" 
-    title="SkillForge-VR Demo" 
-    style="border:0;" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</p>
-
+      <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+        title="SkillForge-VR in action"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        >
+      </iframe>
 
 
 2. AI Career Guide
    - Conversational intake about passions, skills, and constraints.
    - Mentor explains trade-offs, market demand, and learning paths.
 
+      Demo: 
+
+      <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+        title="SkillForge-VR in action"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        >
+      </iframe>
+
+
 3. Workshop Learning
    - AI Instructor assigns tasks and provides step-by-step guidance.
    - Real-time adaptation based on performance and voice feedback.
 
+      Demo: 
+
+      <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+        title="SkillForge-VR in action"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        >
+      </iframe>
 4. Feedback & Progress
    - Adaptive progression, challenges, badges, and certifications.
+
+      Demo: 
+
+      <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/ltrWb-F3pUQ?start=10&autoplay=1"
+        title="SkillForge-VR in action"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        >
+      </iframe>
 
 ---
 
