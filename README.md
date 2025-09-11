@@ -154,6 +154,17 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
 
 ---
 
+## 🛠️ Tools Used
+
+- **Unreal Engine 5** - Core game engine for VR development
+- **Meta Quest 3** - Primary VR headset for testing and deployment
+- **Convai Plugin** - AI-powered conversational interface for natural language interactions
+- **Fab Assets** - 3D assets and models for workshop environments
+- **Figma** - UI/UX design and prototyping
+- **MetaHuman** - Realistic character creation for AI instructors and guides
+
+---
+
 ## 📷 User Testing (Early)
 
 - Beginners completed tasks faster with voice than with traditional VR menus.
