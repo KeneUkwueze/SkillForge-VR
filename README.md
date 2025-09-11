@@ -10,6 +10,7 @@ An immersive, AI-powered PCVR application for Technical and Vocational Education
 
 ## 🚩 Problem
 - Traditional VR training relies on complex UIs that overwhelm beginners.
+
 - Traditional vocational training in Nigeria is often static, language-limited, and difficult to scale.
 - Learners struggle to connect theory to hands-on practice.
 - The formal system rarely accommodates diverse learning paces and individual learning patterns.
@@ -21,7 +22,7 @@ An immersive, AI-powered PCVR application for Technical and Vocational Education
 
 SkillForge-VR combines adaptive AI with a voice-first VR interface:
 
-- Primary input: Voice (VUI) — players interact mainly by speaking; controllers are optional/fallback.
+- Natural Voice Commands: Learners control the entire experience through conversational speech, eliminating the need for complicated button combinations or menu navigation.
 - PCVR support — optimized for PC-based VR headsets for high-fidelity simulation.
 - Adaptive AI Tutors — adjust difficulty, pace, and learning paths in real time.
 - Career Guidance Lobby — an AI mentor aligns interests to specific TVET sub-fields.
@@ -29,6 +30,15 @@ SkillForge-VR combines adaptive AI with a voice-first VR interface:
 - Multilingual — Hausa, Igbo, Yoruba (plus English).
 - Gamification — tasks, levels, rewards, and progress tracking to sustain engagement.
 - For all ages — suitable for children and adults.
+
+## 🛠️ Tools Used
+
+- **Unreal Engine 5** - Core game engine for VR development
+- **Meta Quest 3** - Primary VR headset for testing and deployment
+- **Convai Plugin** - AI-powered conversational interface for natural language interactions
+- **Fab Assets** - 3D assets and models for workshop environments
+- **Figma** - UI/UX design and prototyping
+- **MetaHuman** - Realistic character creation for AI instructors and guides
 
 ## 📊 flow Diagram
 
@@ -152,18 +162,6 @@ Players interact using natural language; the AI understands intent, confirms ste
 
 Latency targets: <500 ms for command-and-control; longer for complex tutoring responses.
 
----
-
-## 🛠️ Tools Used
-
-- **Unreal Engine 5** - Core game engine for VR development
-- **Meta Quest 3** - Primary VR headset for testing and deployment
-- **Convai Plugin** - AI-powered conversational interface for natural language interactions
-- **Fab Assets** - 3D assets and models for workshop environments
-- **Figma** - UI/UX design and prototyping
-- **MetaHuman** - Realistic character creation for AI instructors and guides
-
----
 
 ## 📷 User Testing (Early)
 
@@ -193,7 +191,6 @@ Latency targets: <500 ms for command-and-control; longer for complex tutoring re
 
 - **Enables Inclusive Learning**: Adapts to individual learning paces and styles, supporting learners with disabilities through voice interaction and visual accommodations.
 
----
 
 ## 🔧 Requirements & Notes
 
